@@ -1,2 +1,2 @@
 # ps-2021
-Input data for problems fase
+This repository contains input data for candidates, that are applying to join the team, to solve some problems proposed by Unicamp E-Racing.
